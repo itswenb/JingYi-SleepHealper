@@ -1,0 +1,28 @@
+PODS:
+  - Bugly (2.4.8)
+  - JKCategories (1.7)
+  - UMCAnalytics (5.5.1):
+    - UMCCommon
+  - UMCCommon (1.5.2)
+
+DEPENDENCIES:
+  - Bugly (~> 2.4.8)
+  - JKCategories (~> 1.7)
+  - UMCAnalytics (~> 5.5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Bugly
+    - JKCategories
+    - UMCAnalytics
+    - UMCCommon
+
+SPEC CHECKSUMS:
+  Bugly: da3c02408c14838d498429320545a8e439392978
+  JKCategories: 5136d903ed6a17e700cac984db9fc9dcfaad2954
+  UMCAnalytics: 0aff87e39008e2a650e5917430db0da2de2f8495
+  UMCCommon: 4392868ac47ff1b101663106bb114ba616fabbad
+
+PODFILE CHECKSUM: e8e01db2673afe12b18ce2c9024264e1c76eafe3
+
+COCOAPODS: 1.5.3
